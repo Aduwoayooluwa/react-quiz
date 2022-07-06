@@ -104,13 +104,6 @@
       "choices": ["Wolfsburg", "Munich", "Berlin", "Frankfurt"],
       "answer": "Zipporah",
       "id": "15"
-    },
-    {
-      "audio": "./speech/Millo.mp3",
-      "question": "Spell the Word from the recording",
-      "choices": ["Wolfsburg", "Munich", "Berlin", "Frankfurt"],
-      "answer": "Millo",
-      "id": "16"
     }
   ]
 }
